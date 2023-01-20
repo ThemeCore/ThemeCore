@@ -1,0 +1,29 @@
+{
+    "auto-close-tag.activationOnLanguage": [
+        "xml",
+        "php",
+        "blade",
+        "ejs",
+        "jinja",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "plaintext",
+        "markdown",
+        "vue",
+        "liquid",
+        "erb",
+        "lang-cfml",
+        "cfml",
+        "HTML (EEx)",
+        "HTML (Eex)",
+        "plist"
+    ],
+    "auto-close-tag.enableAutoCloseSelfClosingTag": true,
+    "auto-close-tag.enableAutoCloseTag": true,
+    "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+    "auto-rename-tag.activationOnLanguage": [
+        "*"
+    ]
+}
