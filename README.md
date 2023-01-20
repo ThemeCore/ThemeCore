@@ -1,1 +1,1 @@
-#ThemeCore - Coming Soon
+#ThemeCore - Coming Soon :sunglasses:
